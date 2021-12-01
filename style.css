@@ -9,11 +9,13 @@ footer {
 	height: 387px;
 	background: linear-gradient(54.26deg, #8065b6 10.14%, #e9553d 109.8%);
 }
+
 #couple_keeper {
 	display: flex;
 	justify-content: center;
 	padding-top: 30px;
 }
+
 #couple {
 	background: #fff;
 	border-radius: 10px;
