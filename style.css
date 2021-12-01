@@ -1,89 +1,89 @@
 header {
-	height: 400px;
-	width: 100%;
-	background: linear-gradient(54.26deg, #8065b6 10.14%, #e9553d 109.8%);
-	border-bottom-left-radius: 10em/1em;
+  height: 400px;
+  width: 100%;
+  background: linear-gradient(54.26deg, #8065b6 10.14%, #e9553d 109.8%);
+  border-bottom-left-radius: 10em/1em;
 }
 
 footer {
-	text-align: center;
-	color: #fff;
-	height: 387px;
-	background: linear-gradient(54.26deg, #8065b6 10.14%, #e9553d 109.8%);
+  text-align: center;
+  color: #fff;
+  height: 387px;
+  background: linear-gradient(54.26deg, #8065b6 10.14%, #e9553d 109.8%);
 }
 #couple_keeper {
-	padding-top: 30px;
+  padding-top: 30px;
 }
 #couple {
-	margin: auto;
-	margin-bottom: 10px;
-	background: #fff;
-	border-radius: 10px;
-	width: 40px;
-	height: 40px;
+  margin: auto;
+  margin-bottom: 10px;
+  background: #fff;
+  border-radius: 10px;
+  width: 40px;
+  height: 40px;
 }
 #info_block_div {
-	width: 55%;
-	margin: auto;
+  width: 55%;
+  margin: auto;
 }
 .info_block {
-	color: #fff;
-	font-size: 16px;
-	text-decoration: none;
-	line-height: 24px;
-	margin: 0 1%;
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+  line-height: 24px;
+  margin: 0 1%;
 }
 #couple_keeper span {
-	color: rgb(187, 183, 183);
+  color: rgb(187, 183, 183);
 }
 .win {
-	background-color: #8065b6;
-	width: 700px;
-	height: 200px;
-	margin: auto;
-	border-radius: 30px;
-	margin-top: 40px;
-	margin-bottom: 40px;
-	padding-top: 10px;
+  background-color: #8065b6;
+  width: 700px;
+  height: 200px;
+  margin: auto;
+  border-radius: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding-top: 10px;
 }
 .head {
-	font-family: "Times New Roman", Times, serif;
-	font-size: 14px;
-	text-align: center;
-	color: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  text-align: center;
+  color: #ffffff;
 }
 .qwest {
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-	font-size: 28px;
-	text-align: center;
-	color: #ffffff;
-	margin-bottom: 20px;
-	margin-top: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 28px;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 20px;
+  margin-top: 10px;
 }
 .otw {
-	width: 120px;
-	font-size: 16px;
-	background-color: #fff;
-	border-radius: 20px;
-	text-align: center;
-	padding: 10px;
-	display: inline-block;
-	margin: 4px;
+  width: 120px;
+  font-size: 16px;
+  background-color: #fff;
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px;
+  display: inline-block;
+  margin: 4px;
 }
 .otwcont {
-	margin-left: 50px;
+  margin-left: 50px;
 }
 .line {
-	width: 500px;
-	height: 4px;
-	background-color: aqua;
-	border-radius: 2px;
-	display: inline-block;
+  width: 500px;
+  height: 4px;
+  background-color: aqua;
+  border-radius: 2px;
+  display: inline-block;
 }
 .number {
-	display: inline-block;
-	margin-left: 20px;
+  display: inline-block;
+  margin-left: 20px;
 }
 .linecont {
-	margin-left: 50px;
+  margin-left: 50px;
 }
